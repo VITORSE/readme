@@ -1,4 +1,4 @@
-## Olá - Eu sou o João Victor Tagua 🤙
+## Olá - Eu sou o João Vitor
 
 
 - 🔭 Atualmente com foco em front-end
