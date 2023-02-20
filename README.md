@@ -1,4 +1,4 @@
-## Olá - Eu sou o João Vitor
+## Olá - Eu sou  Vitor
 
 
 - 🔭 Atualmente com foco em front-end
